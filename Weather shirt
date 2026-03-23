@@ -1,0 +1,10 @@
+print("Rohan's program to check the temprature")
+Temprature =  int(input("Enter today's temprature  :"))
+
+if (Temprature > 11):
+    
+    print("Rohan, it's nice and warm outside. You can wear something light and soft!")
+
+else :
+
+    print("Rohan, it's  cold outside. You can wear your jacket.")
